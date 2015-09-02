@@ -1,0 +1,437 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  scene.aluminum
+	processing begun of material:  scene.beige
+	WARNING texture type not currently supported:  NONE, ignored.
+	processing begun of material:  scene.Black
+	processing begun of material:  scene.Material.001
+	processing begun of material:  scene.Material.002
+	Diffuse texture found
+	processing begun of material:  scene.Material.005
+	processing begun of material:  scene.Material.006
+	WARNING texture type not currently supported:  NONE, ignored.
+	processing begun of material:  scene.Material.009
+	processing begun of material:  scene.Material.010
+	processing begun of material:  scene.Material.011
+	processing begun of material:  scene.Material.012
+	processing begun of material:  scene.Material.013
+	processing begun of material:  scene.Material.014
+	processing begun of material:  scene.metal
+	processing begun of material:  scene.Wall
+	processing begun of material:  scene.yellow
+	processing begun of mesh:  Cube.050
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.049
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.048
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.047
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.046
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.045
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.044
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.043
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.042
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.041
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.040
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.039
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.038
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.037
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.036
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.035
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.034
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Cube.033
+		processing begun of multimaterial:  scene.Multimaterial#0
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.032
+		num positions      :  1538
+		num normals        :  1538
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9216
+	processing begun of mesh:  Cube.031
+		num positions      :  472
+		num normals        :  472
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2808
+	processing begun of mesh:  Cube.030
+		processing begun of multimaterial:  scene.Multimaterial#1
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.029
+		processing begun of multimaterial:  scene.Multimaterial#2
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.028
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.027
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  InitialSpawn
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022
+		processing begun of multimaterial:  scene.Multimaterial#3
+		num positions      :  272
+		num normals        :  272
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1380
+	processing begun of mesh:  Cube.026
+		processing begun of multimaterial:  scene.Multimaterial#4
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.025
+		processing begun of multimaterial:  scene.Multimaterial#5
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.024
+		processing begun of multimaterial:  scene.Multimaterial#6
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.021
+		processing begun of multimaterial:  scene.Multimaterial#7
+		num positions      :  272
+		num normals        :  272
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1380
+	processing begun of mesh:  Cube.020
+		processing begun of multimaterial:  scene.Multimaterial#8
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.019
+		processing begun of multimaterial:  scene.Multimaterial#9
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.018
+		processing begun of multimaterial:  scene.Multimaterial#10
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.017
+		processing begun of multimaterial:  scene.Multimaterial#11
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.015
+		processing begun of multimaterial:  scene.Multimaterial#12
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.014
+		processing begun of multimaterial:  scene.Multimaterial#13
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.013
+		processing begun of multimaterial:  scene.Multimaterial#14
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.012
+		processing begun of multimaterial:  scene.Multimaterial#15
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.011
+		processing begun of multimaterial:  scene.Multimaterial#16
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.010
+		processing begun of multimaterial:  scene.Multimaterial#17
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.009
+		processing begun of multimaterial:  scene.Multimaterial#18
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.008
+		processing begun of multimaterial:  scene.Multimaterial#19
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.007
+		processing begun of multimaterial:  scene.Multimaterial#20
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.023
+		processing begun of multimaterial:  scene.Multimaterial#21
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.016
+		processing begun of multimaterial:  scene.Multimaterial#22
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.005
+		processing begun of multimaterial:  scene.Multimaterial#23
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of mesh:  Cube.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.000
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.001
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  Cube
+		processing begun of multimaterial:  scene.Multimaterial#24
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  396
+	processing begun of mesh:  Cube.004
+		processing begun of multimaterial:  scene.Multimaterial#25
+		num positions      :  1883
+		num normals        :  1883
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9654
+	processing begun of mesh:  Cube.006
+		processing begun of multimaterial:  scene.Multimaterial#26
+		num positions      :  272
+		num normals        :  272
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1380
+	processing begun of light (POINT):  Point.002
+	WARNING: Only directional (sun) and spot types of lamp are valid for shadows thus ignored: Point.002
+	processing begun of light (POINT):  Point.001
+	WARNING: Only directional (sun) and spot types of lamp are valid for shadows thus ignored: Point.001
+	processing begun of light (HEMI):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
