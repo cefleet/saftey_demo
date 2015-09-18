@@ -5,6 +5,7 @@
 	processing begun of material:  scene.beige
 	WARNING texture type not currently supported:  NONE, ignored.
 	processing begun of material:  scene.Black
+	processing begun of material:  scene.Material
 	processing begun of material:  scene.Material.001
 	processing begun of material:  scene.Material.002
 	Diffuse texture found
@@ -20,6 +21,13 @@
 	processing begun of material:  scene.metal
 	processing begun of material:  scene.Wall
 	processing begun of material:  scene.yellow
+	processing begun of mesh:  TestTrigger
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
 	processing begun of mesh:  Cube.050
 		num positions      :  72
 		num normals        :  72
@@ -139,7 +147,7 @@
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  420
-	processing begun of mesh:  Cube.033
+	processing begun of mesh:  ChalkBoard
 		processing begun of multimaterial:  scene.Multimaterial#0
 		num positions      :  20
 		num normals        :  20
@@ -147,14 +155,14 @@
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  84
-	processing begun of mesh:  Cube.032
+	processing begun of mesh:  WaterSpill
 		num positions      :  1538
 		num normals        :  1538
 		num uvs            :  0
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  9216
-	processing begun of mesh:  Cube.031
+	processing begun of mesh:  Sink
 		num positions      :  472
 		num normals        :  472
 		num uvs            :  0
@@ -411,7 +419,7 @@
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  396
-	processing begun of mesh:  Cube.004
+	processing begun of mesh:  ForkLift
 		processing begun of multimaterial:  scene.Multimaterial#25
 		num positions      :  1883
 		num normals        :  1883

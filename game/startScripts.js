@@ -4,6 +4,16 @@ var myGame = {
       urlRoot : './models/',
       file : 'player.babylon',
       importMeshName:'Player',
+      boundsSize : {
+        x : 0.5,
+        y: 1,
+        z : 0.5
+      },
+      boundsOffset : {
+        x : 0,
+        y: 1.8,
+        z: 0
+      },
       animationsMap : [
         {
           name : 'idle',
@@ -63,15 +73,51 @@ var myGame = {
   },
 
   scripts : function(s){
-    myGame.game.run();
+    A3D.ActiveGame.overlay = new A3D.Overlay({},this);
+
+  var screen = new A3D.Object2D.Image({
+    src : './images/testScreen.png',
+    id : 'testScreen',
+    dWidth : A3D.ActiveGame.overlay.canvas.width,
+    dHeight: A3D.ActiveGame.overlay.canvas.height,
+    clickArea : {
+      x:0,
+      y:0,
+      height:A3D.ActiveGame.overlay.canvas.height,
+      width:A3D.ActiveGame.overlay.canvas.width
+    }
+  });
+
+
+    A3D.ActiveGame.mainScene.Trigger.TestTrigger.addActivateAction(new A3D.Action({
+      func : function(){
+        console.log(screen);
+        A3D.ActiveGame.overlay.addObject2D(screen);
+        A3D.ActiveGame.overlay.render();
+        A3D.ActiveGame.pause();
+        console.log('I have run into the Trigger');
+        //TODO I can do anything right here.
+      },
+      active:false
+    }));
+
+    A3D.ActiveGame.mainScene.Trigger.TestTrigger.addDeactivateAction(new A3D.Action({
+      func : function(){
+        console.log('I have run off of the Trigger');
+        //TODO I can do anything right here.
+      },
+      active:false,
+      runFrames : 1
+    }));
+
+    A3D.ActiveGame.run();
   }
 };
 
 
 function start(){
-  //TODO it may make sense to do things a little different. for example make a "player" json file that is loaded
-    myGame.game = new A3D.Game.Adventure(myGame.config);
-    myGame.game.loadScene('./scenes/','scene.babylon',myGame.scripts,{
+    new A3D.Game.Adventure(myGame.config);
+    A3D.ActiveGame.loadScene('./scenes/','scene.babylon',myGame.scripts,{
       mainScene : true
     });
 }
