@@ -73,7 +73,7 @@ var myGame = {
   },
 
   scripts : function(s){
-    A3D.ActiveGame.overlay = new A3D.Overlay({},this);
+    A3D.ActiveGame.overlay = new A3D.Overlay({},A3D.ActiveGame);
 
   var screen = new A3D.Object2D.Image({
     src : './images/testScreen.png',
@@ -116,9 +116,10 @@ var myGame = {
 
 
 function start(){
-    new A3D.Game.Adventure(myGame.config);
-    A3D.ActiveGame.loadScene('./scenes/','scene.babylon',myGame.scripts,{
-      mainScene : true
+    new A3D.Game(myGame.config);
+    A3D.ActiveGame._loadScene('./scenes/','scene.babylon',function(){
+      myGame.Adventure = new A3D.Module.Adventure(myGame.config);
+      myGame.Adventure.loadModule(myGame.scripts);
     });
 }
 
