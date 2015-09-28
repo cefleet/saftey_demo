@@ -1,0 +1,218 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  shelfMiniGame2.aluminum
+	processing begun of material:  shelfMiniGame2.Black
+	processing begun of material:  shelfMiniGame2.Material.001
+	WARNING texture type not currently supported:  NONE, ignored.
+	processing begun of material:  shelfMiniGame2.Material.002
+	processing begun of material:  shelfMiniGame2.Material.003
+	processing begun of material:  shelfMiniGame2.Material.004
+	processing begun of material:  shelfMiniGame2.Material.005
+	processing begun of material:  shelfMiniGame2.Material.011
+	processing begun of material:  shelfMiniGame2.Material.012
+	processing begun of material:  shelfMiniGame2.Material.013
+	processing begun of material:  shelfMiniGame2.Material.014
+	processing begun of material:  shelfMiniGame2.Material.015
+	processing begun of material:  shelfMiniGame2.Material.016
+	processing begun of material:  shelfMiniGame2.Material.021
+	processing begun of material:  shelfMiniGame2.Material.022
+	processing begun of material:  shelfMiniGame2.Material.023
+	processing begun of material:  shelfMiniGame2.metal
+	processing begun of material:  shelfMiniGame2.yellow
+	processing begun of mesh:  choice.Container.004
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  choice.Container.003
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  choice.Container.002
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  choice.Container.001
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  choice.Tubes.004
+		num positions      :  640
+		num normals        :  640
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of mesh:  choice.Tubes.003
+		num positions      :  640
+		num normals        :  640
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of mesh:  choice.Tubes.002
+		num positions      :  640
+		num normals        :  640
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of mesh:  choice.Tubes.001
+		num positions      :  640
+		num normals        :  640
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of mesh:  choice.10lbBox.004
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.10lbBox.003
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.10lbBox.002
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.10lbBox.001
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.50lbBox.004
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.50lbBox.003
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.50lbBox.002
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.50lbBox.001
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.Container
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  choice.Tubes
+		num positions      :  640
+		num normals        :  640
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3780
+	processing begun of mesh:  choice.10lbBox
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  choice.50lbBox
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  Ground
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.003
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.004
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.002
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.001
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of mesh:  Cube.007
+		processing begun of multimaterial:  shelfMiniGame2.Multimaterial#0
+		num positions      :  96
+		num normals        :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  480
+	processing begun of light (POINT):  Point
+	processing begun of light (HEMI):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
